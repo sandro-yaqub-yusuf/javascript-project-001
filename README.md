@@ -1,4 +1,4 @@
-# Javascript - Projeto - 001
+# Javascript - Projeto 001
 
 * Linguagem principal: Javascript
 * Outras linguagens: HTML5 e CSS3
